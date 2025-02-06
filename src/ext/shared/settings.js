@@ -1,9 +1,9 @@
-/**
- * @file wrap a relatively independent settings storage with its own functions
- */
+uninstall
+delete
+void
+end
+close
 
-/** @type {string} */
-const storagePrefix = "US_";
 
 /**
  * Convert name to storage key
