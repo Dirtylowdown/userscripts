@@ -1,6 +1,8 @@
-<script>
-	export let type;
-</script>
+void
+delete
+end
+stop
+
 
 <div class="script__tag {`script__tag--${type}`}"></div>
 
